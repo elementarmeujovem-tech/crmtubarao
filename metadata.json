@@ -1,0 +1,8 @@
+{
+  "name": "08 CRM Flow Mobile",
+  "description": "App CRM com gestão de contatos, tags, histórico de interações, modo offline com sincronização automática e dashboard do funil de vendas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
